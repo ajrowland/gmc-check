@@ -1,0 +1,20 @@
+{
+  "name": "gmc-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consola": "^3.2.3",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "minimalist": "^1.0.0",
+    "node-html-parser": "^6.1.12",
+    "prompts": "^2.4.2",
+    "puppeteer": "^22.4.0"
+  }
+}
