@@ -25,7 +25,7 @@ CSV_DIR=./data
 ## Usage
 
 ```
-# Output availability for a CSV file. Drop into the data folder, and select using:
+# Output availability for all products in a GMC disapprovals CSV file. Crawl is achieved using fetch. Drop into the data folder, and select using:
 npm run start -- --csv
 
 # Output availability for specific product. Uses fetch.
