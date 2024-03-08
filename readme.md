@@ -2,6 +2,8 @@
 
 This script is used to iterate through a GMC issues feed, to check stock availability. When finished it will output two arrays of products, one for in stocks items, and one for out of stock. It will sort the arrays by the crawl time of the Google Storebot.
 
+This tool requires the appropriate structured data on the product detail pages. See: https://developers.google.com/search/docs/appearance/structured-data/product.
+
 ## Install
 
 ```
