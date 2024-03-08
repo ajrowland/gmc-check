@@ -14,7 +14,8 @@ Create a .env file within the project root:
 
 ```
 # Required, use %s as product id placeholder
-URL_TEMPLATE=`https://my-site.com/products/%s`
+URL_TEMPLATE=https://my-site.com/products/%s
+
 # Optional, default is ./data
 CSV_DIR=./data
 ```
